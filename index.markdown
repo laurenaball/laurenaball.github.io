@@ -17,6 +17,7 @@ I am driven by
 
 
 <br>
+
 ### The most important and interesting subjects
 ---
 - What are the bounds and characteristics of *subjectivity and objectivity*?
@@ -34,6 +35,7 @@ I am driven by
 - why is sexism so difficult to recognize?
 
 <br>
+
 ### interests
 ---
 - ending the war on drugs, freeing the bodies and minds that have been constrained by it, and using cannabis and psilocybin to improve people's well-being
@@ -42,6 +44,7 @@ I am driven by
 - kinesiology and how to optimize our bodies
 
 <br>
+
 ### favorite content
 ---
 **books**
