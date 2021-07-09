@@ -1,97 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Hello. I'm Jami Gibbs.</title>
-    <description>I'm a software developer and designer from Chicago creating useful things for the web.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 May 2021 00:20:49 -0400</pubDate>
-    <lastBuildDate>Wed, 12 May 2021 00:20:49 -0400</lastBuildDate>
-    <generator>Jekyll v3.9.1</generator>
-    
-      <item>
-        <title>Phantom</title>
-        <description>
-</description>
-        <pubDate>Sat, 20 Feb 2016 16:15:00 -0500</pubDate>
-        <link>http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template.html</guid>
-        
-        <category>Jekyll</category>
-        
-        <category>Sass</category>
-        
-        <category>Bootstrap</category>
-        
-        
-        <category>development</category>
-        
-        <category>design</category>
-        
-      </item>
-    
-      <item>
-        <title>Rescue Themes</title>
-        <description>
-</description>
-        <pubDate>Sat, 20 Feb 2016 10:56:00 -0500</pubDate>
-        <link>http://localhost:4000/development/design/2016/02/20/rescue-themes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/design/2016/02/20/rescue-themes.html</guid>
-        
-        <category>WordPress</category>
-        
-        <category>PHP</category>
-        
-        <category>Sass</category>
-        
-        
-        <category>development</category>
-        
-        <category>design</category>
-        
-      </item>
-    
-      <item>
-        <title>Weathercast</title>
-        <description>
-</description>
-        <pubDate>Sat, 20 Feb 2016 10:56:00 -0500</pubDate>
-        <link>http://localhost:4000/development/2016/02/20/weathercast.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2016/02/20/weathercast.html</guid>
-        
-        <category>JavaScript</category>
-        
-        <category>AngularJS</category>
-        
-        <category>API</category>
-        
-        <category>Sass</category>
-        
-        
-        <category>development</category>
-        
-      </item>
-    
-      <item>
-        <title>Bloc Jams Angular</title>
-        <description>
-</description>
-        <pubDate>Sat, 20 Feb 2016 09:15:00 -0500</pubDate>
-        <link>http://localhost:4000/development/2016/02/20/bloc-jams-angular.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2016/02/20/bloc-jams-angular.html</guid>
-        
-        <category>JavaScript</category>
-        
-        <category>AngularJS</category>
-        
-        <category>Sass</category>
-        
-        <category>Grunt</category>
-        
-        
-        <category>development</category>
-        
-      </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-09T00:15:38-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Lauren Ball</title><subtitle>always a work in progress</subtitle><entry><title type="html">Welcom????</title><link href="http://localhost:4000/jekyll/confusion/2021/05/29/what-if-i-don't-want-to.html" rel="alternate" type="text/html" title="Welcom????" /><published>2021-05-29T16:01:48-04:00</published><updated>2021-05-29T16:01:48-04:00</updated><id>http://localhost:4000/jekyll/confusion/2021/05/29/what%20if%20i%20don't%20want%20to</id><content type="html" xml:base="http://localhost:4000/jekyll/confusion/2021/05/29/what-if-i-don't-want-to.html">&lt;p&gt;what is happening&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="confusion" /><summary type="html">what is happening</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2021/05/27/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2021-05-27T16:01:48-04:00</published><updated>2021-05-27T16:01:48-04:00</updated><id>http://localhost:4000/jekyll/update/2021/05/27/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2021/05/27/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
