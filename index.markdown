@@ -6,33 +6,32 @@ layout: home
 ---
 
 
-I work to strengthen communities using science and technology. Math enables us to understand and make use of science and technology in order to create a better future for sentient life on earth.
+I work to strengthen communities using math, science and technology. I believe creating strong and healthy communities is the best way to create a better future for sentient life on earth.
 
-I am a first-generation college student from Atlanta, Georgia. 
+I am driven by <br>
+  1) curiosity and the beauty of truth <br>
+  2) a duty to minimize suffering and contribute to human knowledge. 
 
-I am driven by 
-  1) curiosity and the beauty of truth
-  2) belief in a duty to help further human understanding and minimize suffering for sentient life on earth. 
-
+I am from Atlanta, Georgia. I was a first generation college student and the first in my extended family to earn a graduate degree. 
 
 
 <br>
 
-### The most important and interesting subjects
+### Topics most important and interesting to me
 ---
 - What are the bounds and characteristics of *subjectivity and objectivity*?
 - Are all things that exist in time with a finite/scarce component subject to the patterns of *evolution*?
-- scarcity
-- fear
+- How has scarcity impacted human history and evolution? What does a post-scarcity society look like?
 - Godel's incompleteness theorem - wtf
 - Does breadth of perspective make one self-consistent system of truth more valid than another? 
+- Why is religion fundamental to humanity?
+  - What is the role of religions and governments in enabling cooperation and trust in large groups?
+- What enables a system to evolve consciousness? How does recursion relate?
+- What makes my brother, who has schizophrenia, unable to communicate or take care of himself?
+- Why is sexism so difficult to recognize?
+- How do you prioritize what types of suffering to solve for?
+- fear
 - communities
-- suffering
-- why is religion so fundamental to humanity?
-  - what is the role of religions and governments in enabling cooperation and trust in large groups?
-- what enables a system to evolve consciousness? Is recursion related?
-- understanding what makes my brother's brain not allow him to take care of himself or make himself understandble to others
-- why is sexism so difficult to recognize?
 
 <br>
 

@@ -20,8 +20,7 @@
 
 title: Lauren Ball
 email: ball.lauren.a@gmail.com
-description: >- #this means to ignore new lines until "baseurl"
-wip 
+description: >- #this means to ignore new lines until "baseurl" wip 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://laurenaballl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: none
