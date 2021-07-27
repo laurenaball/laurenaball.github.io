@@ -1,1 +1,3 @@
-# laurenaball.github.io
+# laurenaball.com
+
+work in progress
